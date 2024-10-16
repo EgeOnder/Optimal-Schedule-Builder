@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --background: 0 100% 99%;
+  --secondary: 345 100% 98%;
+  --secondary-foreground: 0 15% 78%;
+
+  --dusty-pink: 342 100% 95%;
+  --bulldog-red: 348 88% 39%;
+}
+
+/* [data-theme="dark"] {
+  TODO: Add the dark mode styles here
+} */
